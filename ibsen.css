@@ -21,3 +21,14 @@
 .BERTA{
     color: darkblue;
 }
+table{
+    font-size: medium;
+    border: 5px blue solid;
+    color: rgb(72, 47, 216);
+    text-align: center;
+    padding: 12px;
+    margin: 3px;
+}
+tr:nth-child(odd) {
+    background-color: lightpink;
+  }
