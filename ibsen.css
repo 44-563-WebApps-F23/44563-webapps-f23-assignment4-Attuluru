@@ -1,0 +1,26 @@
+.speech{
+    font: message-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    color: black;
+}
+.direction{
+    font: medium;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    background-color: aquamarine;
+}
+.direction:hover{
+    background-color: darkkhaki;
+    color: brown;
+}
+.name{
+    
+}
+.MISSTESMAN{
+    color: cornflowerblue;
+
+}
+.BERTA{
+    color: darkblue;
+}
