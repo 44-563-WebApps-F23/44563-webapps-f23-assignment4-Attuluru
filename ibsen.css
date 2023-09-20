@@ -32,3 +32,16 @@ table{
 tr:nth-child(odd) {
     background-color: lightpink;
   }
+.MISSTESMAN:hover{
+    background-color: blueviolet;
+    color: white;
+    border: 1px solid crimson;
+    filter: blur(1px);
+  }
+.BERTA:hover{
+    border: 1px solid brown;
+    background-color: rgb(126, 199, 126);
+    color: rgb(150, 41, 41);
+    filter: blur(1px);
+}
+
