@@ -44,4 +44,19 @@ tr:nth-child(odd) {
     text-shadow: 2px 3px 4px;
     filter: blur(1px);
 }
-
+ul.navbar-horizontal {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    }
+    ul.navbar-horizontal li {
+    color:#000;
+    background-color:rgb(105, 164, 141)
+    }
+    ul.navbar-horizontal a {
+    display:block;
+    padding:8px}
+ul.navbar-horizontal:hover a{
+    background-color: rgb(112, 215, 84);
+    color:rgb(12, 5, 110);
+}    
