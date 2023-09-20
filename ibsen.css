@@ -10,6 +10,9 @@
     font-size: medium;
     background-color: aquamarine;
 }
+.name{
+    color:rgb(76, 48, 236)
+}
 .direction:hover{
     background-color: darkkhaki;
     color: brown;
