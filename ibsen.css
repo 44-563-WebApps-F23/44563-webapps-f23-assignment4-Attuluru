@@ -33,15 +33,15 @@ tr:nth-child(odd) {
     background-color: lightpink;
   }
 .MISSTESMAN:hover{
-    background-color: blueviolet;
-    color: white;
-    border: 1px solid crimson;
+    color: rgb(209, 106, 37);
+    border: 1px solid rgb(76, 48, 236);
+    text-shadow: 2px 3px 4px;
     filter: blur(1px);
   }
 .BERTA:hover{
-    border: 1px solid brown;
-    background-color: rgb(126, 199, 126);
+    border: 1px solid rgb(59, 196, 91);
     color: rgb(150, 41, 41);
+    text-shadow: 2px 3px 4px;
     filter: blur(1px);
 }
 
