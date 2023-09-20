@@ -23,7 +23,7 @@
 }
 table{
     font-size: medium;
-    border: 5px blue solid;
+    border: 5px rgb(0, 255, 136) ;
     color: rgb(72, 47, 216);
     text-align: center;
     padding: 12px;
