@@ -56,6 +56,7 @@ ul.navbar-horizontal {
     padding: 0;
     }
     ul.navbar-horizontal li {
+    float: left;
     color:#000;
     background-color:rgb(105, 164, 141)
     }
